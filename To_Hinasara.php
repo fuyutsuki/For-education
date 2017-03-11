@@ -1,6 +1,7 @@
 <?php
 
 // 必要なuse
+use pocketmine\Player;
 use pocketmine\entity\Entity;
 use pocketmine\entity\Item as ItemEntity;
 use pocketmine\network\protocol\AddEntityPacket;
