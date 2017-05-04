@@ -1,4 +1,3 @@
-# FloatingTextPerticle
+## for-education
 educational purpose(for japanese).
-
-FloatingTextPerticle(AddEntityPacket)についての解説です。
+> To_お名前 のフォルダの中にファイルやフォルダを入れてあります。
